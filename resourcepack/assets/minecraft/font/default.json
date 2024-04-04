@@ -1,0 +1,123 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/admin.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["𯒤"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/bot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󱓄"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/builder.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󰧁"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/developer.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󰛳"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/legendary.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󯛯"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/manager.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󰋿"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/merchant.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󱇽"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/member.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󯩜"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/moderator.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󰓆"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/mvp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󯗭"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/mvp_plus.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󯖸"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/official.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󰸶"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/owner.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󰀥"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/staff.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["𯒥"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/system.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󯮸"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/verified.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󱥧"]
+	    },
+        {
+            "type": "bitmap",
+            "file": "theranks:ranks/vip.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["󯣒"]
+	    }
+    ]
+}
