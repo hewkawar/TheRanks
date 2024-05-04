@@ -1,0 +1,26 @@
+{
+  "name": "theranks",
+  "version": "0.1.0",
+  "description": "Minecraft Resource Pack",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hewkawar/TheRanks.git"
+  },
+  "keywords": [
+    "theranks",
+    "TheRanks"
+  ],
+  "author": "HewkawAr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hewkawar/TheRanks/issues"
+  },
+  "homepage": "https://github.com/hewkawar/TheRanks#readme",
+  "dependencies": {
+    "archiver": "^7.0.1"
+  }
+}

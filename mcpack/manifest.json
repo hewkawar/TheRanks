@@ -1,0 +1,26 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§fHewkawAr/TheRanks\n§7Version : §aBedrock",
+        "name": "TheRanks-§aBedrock",
+        "platform_locked": false,
+        "uuid": "e9d667a5-7aeb-4a0e-8e35-9a2d109b56c0",
+        "version": [
+            2,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "§fHewkawAr/TheRanks\n§7Version : §aBedrock",
+            "type": "resources",
+            "uuid": "ea7f64b2-ecc2-4300-8295-ed62c38a57d9",
+            "version": [
+                2,
+                0,
+                0
+            ]
+        }
+    ]
+}

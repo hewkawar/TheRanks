@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "§fHewkawAr/TheRanks\n§7Version : §a1.16.2-1.16.5",
-        "pack_format": 6
+        "description": "§fHewkawAr/TheRanks\n§7Version : §a%%release%%",
+        "pack_format": 5
     }
 }
