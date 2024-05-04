@@ -27,7 +27,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: TheRanks
-          path: ../dist
+          path: ./dist
   release-content:
     name: Releases
     runs-on: ubuntu-latest
