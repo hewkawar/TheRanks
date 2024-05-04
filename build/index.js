@@ -37,8 +37,8 @@ function BuildJava() {
             }
         };
     
-        copyFolderSync("resourcepack/assets", `build/building/${version.pack}/assets`);
-        fs.copyFileSync("resourcepack/pack.png", `build/building/${version.pack}/pack.png`);
+        copyFolderSync("java/assets", `build/building/${version.pack}/assets`);
+        fs.copyFileSync("java/pack.png", `build/building/${version.pack}/pack.png`);
         fs.writeFileSync(`build/building/${version.pack}/pack.mcmeta`, JSON.stringify(packMeta, null, 2));
     
         const archive = archiver('zip', {
@@ -60,7 +60,7 @@ function BuildJava() {
 function BuildBedrock() {
     const output = fs.createWriteStream(`dist/TheRanks-Bedrock.mcpack`);
 
-    copyFolderSync("mcpack", `build/building/bedrock`);
+    copyFolderSync("bedrock", `build/building/bedrock`);
 
     const archive = archiver('zip', {
         zlib: { level: 9 }
